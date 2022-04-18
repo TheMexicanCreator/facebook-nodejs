@@ -1,0 +1,10 @@
+.widgets {
+    display: block;
+}
+
+.widgets > p {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+    background-color: white;
+    padding-bottom: 30px;
+}
